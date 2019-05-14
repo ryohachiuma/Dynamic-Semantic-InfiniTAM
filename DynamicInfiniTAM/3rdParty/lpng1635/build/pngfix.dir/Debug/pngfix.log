@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/ryo/Desktop/lpng1635/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/generate.stamp is up-to-date.
+  pngfix.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory

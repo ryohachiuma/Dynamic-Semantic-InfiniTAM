@@ -1,0 +1,21 @@
+﻿  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+     ライブラリ D:\ProjectsD\subthema\QuadricSLAM\InfiniTAM\InfiniTAM\3rdParty\lpng1635\projects\vstudio\x64\Release\libpng16.lib とオブジェクト D:\ProjectsD\subthema\QuadricSLAM\InfiniTAM\InfiniTAM\3rdParty\lpng1635\projects\vstudio\x64\Release\libpng16.exp を作成中
+  コード生成しています。
+  All 574 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  libpng.vcxproj -> D:\ProjectsD\subthema\QuadricSLAM\InfiniTAM\InfiniTAM\3rdParty\lpng1635\projects\vstudio\x64\Release\libpng16.dll
+  libpng.vcxproj -> D:\ProjectsD\subthema\QuadricSLAM\InfiniTAM\InfiniTAM\3rdParty\lpng1635\projects\vstudio\x64\Release\libpng16.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/ryo/Desktop/lpng1635/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/generate.stamp is up-to-date.
+  pngunknown.c
+LINK : fatal error LNK1104: ファイル 'Debug\libpng16d.lib' を開くことができません。

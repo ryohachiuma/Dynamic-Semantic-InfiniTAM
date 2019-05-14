@@ -1,0 +1,33 @@
+﻿  Building Custom Rule C:/Users/ryo/Desktop/lpng1635/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/generate.stamp is up-to-date.
+  png.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngerror.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngget.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngmem.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngpread.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngread.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngrio.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngrtran.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngrutil.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngset.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngtrans.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngwio.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngwrite.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngwtran.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  pngwutil.c
+c:\program files\anaconda3\library\mingw-w64\include\zconf.h(452): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory
+  コードを生成中...

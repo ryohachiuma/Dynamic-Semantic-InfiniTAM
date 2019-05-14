@@ -1,0 +1,14 @@
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/png-fix-itxt.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/pngtest.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/genfiles.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/png.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/pngfix.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/png_static.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/pngvalid.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/pngunknown.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/pngstest.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/pngimage.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/INSTALL.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ryo/Desktop/lpng1635/build/CMakeFiles/ZERO_CHECK.dir
